@@ -4,4 +4,4 @@ Producer
 Running
 --------
 
-`./gradlew bootRun`
+`make run`
