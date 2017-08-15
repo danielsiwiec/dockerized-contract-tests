@@ -1,4 +1,4 @@
-from node:8.1.4
+from node:8
 WORKDIR /home/node/
 COPY . .
 RUN npm install
